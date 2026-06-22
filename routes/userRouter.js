@@ -7,5 +7,5 @@ const {
 
 router.post("/signup", signUp);
 router.post("/login", login);
-router.post("/reset", passwordReset);
+// router.post("/reset", passwordReset);
 module.exports = router;
